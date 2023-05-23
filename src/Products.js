@@ -6,6 +6,7 @@ import product5 from "./assets/5.png";
 import product6 from "./assets/6.webp";
 import product7 from "./assets/7.webp";
 import product8 from "./assets/8.webp";
+// import product9 from "./assets/9.5.png";
 
 const PRODUCTS = [
   {
@@ -56,6 +57,12 @@ const PRODUCTS = [
     price: 44.0,
     productImage: product8,
   },
+  // {
+  //   id: 9,
+  //   productName: "RICH",
+  //   price: 1,
+  //   productImage: product9,
+  // },
 ];
 
 export default PRODUCTS;
